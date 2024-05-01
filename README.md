@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Craigr43
+- 👀 I’m interested in AI and cybersecurity
+- 🌱 I’m currently learning python for ai
+- 📫 How to reach me discord: nliannagh299
